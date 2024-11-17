@@ -1,0 +1,12 @@
+fastapi
+torch
+transformers
+numpy
+motor
+gtts
+speechrecognition
+uvicorn
+pymongo
+python-multipart
+soundfile
+moviepy
